@@ -25,25 +25,16 @@ Stations("Maadi",29.9603028,31.2576431,"line1"),
 Stations("Hadayek El-Maadi",29.9702409,31.250512599999997,"line1"),
 Stations("Dar El-Salam",29.982066,31.242175300000003,"line1"),
 Stations("El-Zahraa",29.995481700000003,31.2311768,"line1"),
-
 Stations("Mar Girgis",30.0069733999999996,31.2298586000000004,"line1"),
 Stations("El-malek_EL-saleh",30.177109,31.2310717,"line1"),
 Stations("Al-Sayeda Zeinab",30.029287,31.2354308,"line1"),
 Stations("Saad Zaghloul",30.0370333,31.238362000000002,"line1"),
-
 Stations("Sadat",30.0441361,31.2344239,"line1"),
 Stations("Gamal AbdAl",30.880441,31.2023067,"line1"),
-
-
-
 Stations("Urabi",30.056688499999996,31.2420542,"line1"),
-
 Stations("Al-Shohadaa",30.061071400000003,31.2460506,"line1"),
-
 Stations("Ghamra",30.069028999999997,31.2646168,"line1"),
-
 Stations("El-Demerdash",30.0773159,31.277801,"line1"),
-
 Stations("Manshiet El-Sadr",30.081985200000002,31.287534500000003,"line1"),
 
 Stations("Kobri El-Qobba",30.087197000000003,31.2941041,"line1"),
@@ -64,7 +55,7 @@ Stations("Ezbet El-Nakhl",30.139318000000003,31.324422199999997,"line1"),
 
 Stations("El-Marg",30.152101499999997,31.335730199999997,"line1"),
 
-//     Stations("New El-Marg",30.163648700000003,31.3383642),
+   Stations("New El-Marg",30.163648700000003,31.3383642,"line1"),
 Stations("El-Mounib",29.981094400000003,31.2123247,"line2"),
 Stations("Sakiat Mekky",29.995493799999995,31.208655999999998,"line2"),
 Stations("Omm El-Masryeen",30.005653899999995,31.208120199999996,"line2"),
@@ -84,19 +75,26 @@ Stations("Mezallat",30.1041743,31.245641400000004,"line2"),
 Stations("Kolleyyet El-Zeraa",30.1136919,31.2486699,"line2"),
 Stations("Shubra El-Kheima",30.1224317,31.244537899999997,"line2"),
 Stations("Airport",30.1119203,31.4006524,"line3"),
+  Stations("Adly Mansour",30.147051, 31.421439,"line3"),
+  Stations("El Haykestep ",30.143768,31.404706,"line3"),
 Stations("Omar ibn El-Khattab",30.140379699999997,31.3943446,"line3"),
-Stations("El Arab",30.9150146000000003,29.5455698999999997,"line3"),
+  Stations("Qobaa",30.134790,31.383856,"line3"),
+// Stations("El Arab",30.9150146000000003,29.5455698999999997,"line3"),
+  Stations("Hesham Barakat",30.131078,31.372880,"line3"),
+  Stations("El-Nozha",30.128231,31.360045,"line3"),
+  Stations("Nadi El Shams",30.122310, 31.343970,"line3"),
 Stations("Alf Maskan",30.119013,31.340187,"line3"),
 Stations("Heliopolis",30.112315,31.343850699999997,"line3"),
+  Stations("Haroun",30.101834899999997,31.333484900000002,"line3"),
 Stations("Al-Ahram",30.091715999999995,31.3263157,"line3"),
-Stations("Haroun",30.101834899999997,31.333484900000002,"line3"),
 Stations("Koleyet El-Banat",30.0834374,31.328841799999996,"line3"),
 Stations("Stadium",25.277844599999998,55.3614233,"line3"),
 Stations("Abbassia",30.071984999999998,31.283375,"line3"),
-Stations("Fair Zone",30.073256999999998,31.30098,"line3"),
+Stations("Fair Zone",30.029240,31.235400,"line3"),
 Stations("Abdou Pasha",30.064781,31.274749999999997,"line3"),
 Stations("Elgeish",30.061752000000002,31.266882,"line3"),
 Stations("Bab El-Shaaria",30.054144,31.255876999999998,"line3"),
+  Stations("Ataba", 30.053560, 31.238800, "line3"),
 Stations("Nasser",30.0535,31.238733,"line3"),
 Stations("Maspero",30.055607899999995,31.2320888,"line3"),
 Stations("Zamalek",30.0609422,31.219708999999998,"line3"),
@@ -124,16 +122,12 @@ static var line1=<Stations>[
   Stations("Hadayek El-Maadi",29.9702409,31.250512599999997,"line1"),
   Stations("Dar El-Salam",29.982066,31.242175300000003,"line1"),
   Stations("El-Zahraa",29.995481700000003,31.2311768,"line1"),
-
   Stations("Mar Girgis",30.0069733999999996,31.2298586000000004,"line1"),
   Stations("El-malek_EL-saleh",30.177109,31.2310717,"line1"),
   Stations("Al-Sayeda Zeinab",30.029287,31.2354308,"line1"),
   Stations("Saad Zaghloul",30.0370333,31.238362000000002,"line1"),
-
   Stations("Sadat",30.0441361,31.2344239,"line1"),
   Stations("Gamal AbdAl",30.880441,31.2023067,"line1"),
-
-
 
   Stations("Urabi",30.056688499999996,31.2420542,"line1"),
 
